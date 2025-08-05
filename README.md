@@ -158,7 +158,6 @@ Interactive user interface:
 digit-recognition/
 ├── digit_recognition.py       # Main script
 ├── digit_recognition_model.h5  # Trained model (created after first run)
-├── README.md                  # This file
 └── test_images/               # Sample test images (optional)
     ├── digit_0.png
     ├── digit_1.png
